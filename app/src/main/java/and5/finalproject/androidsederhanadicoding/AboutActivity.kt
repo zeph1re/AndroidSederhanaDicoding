@@ -29,7 +29,7 @@ class AboutActivity : AppCompatActivity() {
         val emailProfile = findViewById<TextView>(R.id.my_text_email)
         emailProfile.text = "arlinnog1122@gmail.com"
 
-        var actionBar = supportActionBar
+        val actionBar = supportActionBar
         if (actionBar != null) {
             actionBar.setDisplayHomeAsUpEnabled(true)
             actionBar.setTitle("My Profile")
@@ -42,7 +42,6 @@ class AboutActivity : AppCompatActivity() {
             android.R.id.home -> {
                 doSomething()
                 startActivity(Intent(this, HomeActivity::class.java))
-                true
             }
         }
         return super.onOptionsItemSelected(item)

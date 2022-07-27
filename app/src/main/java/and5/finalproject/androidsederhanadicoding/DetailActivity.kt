@@ -32,10 +32,10 @@ class DetailActivity : AppCompatActivity() {
             .into(gameImageData)
 
 
-        var actionBar = supportActionBar
+        val actionBar = supportActionBar
         if (actionBar != null) {
             actionBar.setDisplayHomeAsUpEnabled(true)
-            actionBar?.setTitle("Detail Game")
+            actionBar.setTitle("Detail Game")
         }
     }
 
@@ -44,7 +44,6 @@ class DetailActivity : AppCompatActivity() {
             android.R.id.home -> {
                 doSomething()
                 startActivity(Intent(this, HomeActivity::class.java))
-                true
             }
         }
         return super.onOptionsItemSelected(item)
