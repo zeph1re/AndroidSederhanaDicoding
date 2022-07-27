@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidSederhanaDicoding.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidSederhanaDicoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidSederhanaDicoding.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidSederhanaDicoding.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidSederhanaDicoding.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidSederhanaDicoding.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidSederhanaDicoding.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidSederhanaDicoding.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidSederhanaDicoding.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidSederhanaDicoding.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

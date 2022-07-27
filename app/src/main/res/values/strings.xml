@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidSederhanaDicoding</string>
+    <string name="game_name">Game Name</string>
+    <string name="game_popularity">Game Popularity</string>
+    <string name="my_email">my email</string>
+    <string name="my_name">my name</string>
+    <string name="image_profile">Image Profile</string>
+    <string name="detail_picture">Detail Picture</string>
+    <string name="game_names">Game Names</string>
+    <string name="game_details">Game Details</string>
+    <string name="my_list_game">My List Game</string>
+    <string name="image_card">Image Card</string>
+    <string name="game_image">Game Image</string>
+    <string name="this_is_spash_screen">This is Spash Screen</string>
+</resources>
